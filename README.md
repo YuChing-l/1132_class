@@ -1,3 +1,3 @@
 # 1132_class
-test for Git and Github
+Test for Git and Github
 by Ching
